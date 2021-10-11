@@ -1,0 +1,15 @@
+file name, C:\MEKED\hked_files\VMS_constants\\KED_VMS_CONSTANTS.csv, 0 , 0 , 0 , 0 , 0 , 0 
+E_cal_L_chan, 249, 0 , 0 , 0 , 0 , 0 , 0 
+E_cal_L_energy, 22.1, 0 , 0 , 0 , 0 , 0 , 0 
+E_cal_H_chan, 984, 0 , 0 , 0 , 0 , 0 , 0 
+E_cal_H_energy, 88.034, 0 , 0 , 0 , 0 , 0 , 0 
+U, 115.602, 107.2, 113.3, 117.3, 119.4, 3.6, 0
+Np, 118.699, 0, 0, 0, 0, 3, 0
+Pu, 121.791, 117.3, 119.4, 123.5, 130.2, 3.19, 0
+Am, 124.982, 0, 0, 0, 0, 3, 0
+Cm, 128.241, 0, 0, 0, 0, 3, 0
+Ref_file, E:\HKED_calcs\HKED_intercomparison\EQRAIN16_LSS\R_R_HNO3-3M-JAN18_HK2_K_201801161844_1.spe, 0 , 0 , 0 , 0 , 0 , 0 
+ref_current, 5, 0 , 0 , 0 , 0 , 0 , 0 
+Sample_current, 15, 0 , 0 , 0 , 0 , 0 , 0 
+Bkg_ROI, 61.75, 64.89, 151.95, 158.4, 0 , 0 , 0 
+XX, 0, 0 , 0 , 0 , 0 , 0 , 0 
